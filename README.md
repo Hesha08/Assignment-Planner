@@ -19,3 +19,6 @@ applies priority ranking and time-block rules( no single task longer than 2 hour
 
 Environment variables were securely managed using dotenv to handle API keys.
 
+## Demo
+
+![App Demo](image.png)
